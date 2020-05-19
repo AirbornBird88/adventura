@@ -8,5 +8,5 @@ Jedná se o jednoduchou hru s textovým rohraním. Hra probíhá v podzemním sk
 Autor: Do Hoang Viet Anh
 Verze: 1.0
 
-Hra se spouští zadáním příkazu "java –jar .jar" (bez uvozovek)  
+Hra se spouští zadáním příkazu "java –jar podzemi_vysledek.jar" (bez uvozovek)  
 v příkazovém řádku v příslušném adresáři.
